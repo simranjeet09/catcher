@@ -15,8 +15,8 @@ dependencies:
     sdk: flutter
   intl:
   fluttertoast: ^8.0.8
-  device_info_plus: ^7.0.0
-  device_info_plus_platform_interface: ^6.0.0
+  device_info_plus: ^8.0.0
+  device_info_plus_platform_interface: ^7.0.0
   package_info_plus: ^3.0.2
   mailer: ^6.0.1
   dio: ^4.0.1
